@@ -3,21 +3,21 @@ const CONFIG = {
   profile: {
     name: "mercury-eucalyptus-63e",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "mature developer",
+    role: "nature developer",
     bio: "I develop everything in nature.",
     email: "yan.zhong@etu.unige.ch",
-    Twitter: "@GlacialYan",
   },
   projects: [
     {
-      name: `Yan Zhong, Nature Explorer`,
-      href: "https://github.com/zhongyan19/yan.zhong",
+      name: `medium blog`,
+      href: "https://medium.com/@jhk0530",
     },
   ],
   // blog setting (required)
   blog: {
     title: "Yan Zhong, Nature Explorer",
     description: "welcome to Yan Zhong's blog!",
+    theme: "auto",
   },
 
   // CONFIG configration (required)
